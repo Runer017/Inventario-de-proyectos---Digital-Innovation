@@ -738,7 +738,7 @@ with col_grafico3:
 
     st.markdown(
         "<p style='color:#777; margin-top:4px;'>"
-        "Cantidad de proyectos por responsable TIC, por solución"
+        "Proyectos por responsable TIC, por solución"
         "</p>",
         unsafe_allow_html=True
     )
@@ -1040,7 +1040,7 @@ with col_grafico4:
 
     st.markdown(
         "<p style='color:#777; margin-top:4px;'>"
-        "Cantidad de proyectos por empresa, por tipo"
+        "Proyectos por empresa, por tipo"
         "</p>",
         unsafe_allow_html=True
     )

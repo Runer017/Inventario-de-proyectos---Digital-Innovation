@@ -14,6 +14,20 @@ st.set_page_config(
     page_icon="📊",
     layout="wide"
 )
+# ==========================================================
+# AJUSTE DEL ESPACIO SUPERIOR
+# ==========================================================
+
+st.markdown(
+    """
+    <style>
+        .block-container {
+            padding-top: 1rem;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 
 # ==========================================================
